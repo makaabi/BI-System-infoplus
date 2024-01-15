@@ -1,0 +1,5 @@
+id,name,category,description,sellPrice,hasDiscount,price_before_discount,buyPrice,stock
+5,CLAVIER USB MACRO K747474,clavier,Clavier USB standard Macro K747474 - Français / Arabe - Interface: USB 2.0 - 104 touches - Hauteur des touches: 5.0mm -  Dimensions:  440 (L) x 140 (W) x 25.5 (H) mm - Poids: 500 g,8.9,FALSE,8.9,8,200
+6,CLAVIER USB MULTIMEDIA NOVA NT-K8113M,clavier,Clavier USB MultiMedia Nova NT-K8113M - Interface : USB - Nombre de clefs: 118 - Dimension: 442X156X24mm - Longueur de câble: 1.2m - Garantie 1an,13.5,FALSE,13.5,12,200
+7,CLAVIER GAMING AZERTY JEDEL K500,clavier,Clavier Gaming JEDEL K500 - Rétroéclairage : Rétroéclairé - LED RGB - Technologie de Connectivité : Filaire - USB 2.0 - Longueur du câble :1 Mètre - AZERTY,18.5,FALSE,18.5,16.5,200
+8,CLAVIER USB PROMATE EASYKEY-4,clavier,Clavier filaire à touches silencieuses ultra-minces - Connectivité USB - Format Azerty/ Français - Conçu pour le confort -  Longueur de câble: 1.6 m - Garantie 1 an,23,FALSE,23,20,150
